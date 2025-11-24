@@ -23,23 +23,6 @@ Create an open, affordable prosthetic arm platform that is:
 ## 🧠 System Architecture
 Skin → EMG sensor → BPF → ADC → Signal classification → Motor controller → Prosthetic finger actuation
 ```
-/firmware
-gesture_classifier.cpp
-emg_filter.cpp
-motor_controller.cpp
-/hardware
-schematics/
-pcb/
-wiring/
-mechanical/
-stl_files/
-/docs
-user_manual.md
-safety_requirements.md
-signal_processing_notes.md
-/tests
-emg_plots
-recorded_sessions
 prosthetic-arm/
 ├── firmware
 │   ├── gesture_classifier.cpp
