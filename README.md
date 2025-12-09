@@ -1,5 +1,5 @@
 # EMG-Controlled Prosthetic Arm
-A functional low-cost ENG controlled prosthetic hand. Reads forearm muscle EMG signals, classifies intent, and controls servos/motors to replicate natural grasp patterns.
+A functional low-cost EMG-controlled prosthetic hand. Reads forearm muscle EMG signals, classifies intent, and controls servos/motors to replicate natural grasp patterns.
 
 ## 🎯 Project Goal
 Create an open, affordable prosthetic arm platform that is:
