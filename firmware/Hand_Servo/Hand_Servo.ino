@@ -9,7 +9,7 @@ float mapFloat(float x, float in_min, float in_max, float out_min, float out_max
 }
 
 void setup() {
-  servo.attach(23);
+  servo.attach(12);
   Serial.begin(9600);
 }
 
